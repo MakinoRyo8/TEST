@@ -6,7 +6,7 @@ body { font: 11px verdana, arial, helvetica, sans-serif; background-color: #FFFF
 .aws_data {
 	background-color: #FFFFFF;
 	border-top-width: 12px;   
-	border-left-width: 0px;  
+	border-left-width: 1px;  
 	border-right-width: 0px; 
 	border-bottom-width: 0px;
 }
